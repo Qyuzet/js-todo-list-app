@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-For any questions or suggestions, please contact Riki Awal Syahputra at [riqi20082003@gmail.com](mailto:riqi20082003@gmail.com).
+For any questions or suggestions, please contact Riki Awal Syahputra at [riqyuzet@gmail.com](mailto:riqyuzet@gmail.com).
 
 ## Live Demo
 
