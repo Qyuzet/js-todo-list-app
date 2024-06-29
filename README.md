@@ -6,6 +6,8 @@ The **JS To-Do List App** is an educational project aimed at demonstrating the p
 
 [try now!: https://qyuzet.github.io/js-todo-list-app/]
 
+![image](https://github.com/Qyuzet/js-todo-list-app/assets/93258081/b178b0ae-62c4-4767-9874-01ca8bcd2eef)
+
 ## Features
 
 - **Add Tasks**: Users can input new tasks into the to-do list.
